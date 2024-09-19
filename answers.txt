@@ -15,4 +15,3 @@ Q3: What is the difference between merging and rebasing?
 Answer: While merging 2 branches allows you to preserve the history of the changes you mad on both branches,
 rebasing basically takes the final version of your code and puts it at the top of main, leaving the rest of the
 behind. Therfore, your history in that branch is not saved.
-
