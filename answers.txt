@@ -9,3 +9,10 @@ Answer: Data science can be applied to basically any field as anything that deal
 This could be business analytics to get more insights on market trends or medicine to analyze data about patients for
 research. THe use of data science is vast and does not apply to one specific field.
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: While merging 2 branches allows you to preserve the history of the changes you mad on both branches,
+rebasing basically takes the final version of your code and puts it at the top of main, leaving the rest of the
+behind. Therfore, your history in that branch is not saved.
+
